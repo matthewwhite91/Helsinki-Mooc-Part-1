@@ -34,7 +34,7 @@ public class Printing {
 
         while (i < size) {
 
-            printStars(1 + i);
+            printStars(i);
             i++;
         }
     }
