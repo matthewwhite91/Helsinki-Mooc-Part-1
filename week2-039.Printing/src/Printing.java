@@ -8,7 +8,7 @@ public class Printing {
             System.out.print("*");
             i++;
         }
-        System.out.println();
+        System.out.println(); //this orints a new line
     }
 
     public static void printSquare(int sideSize) {
